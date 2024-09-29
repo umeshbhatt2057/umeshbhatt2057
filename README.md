@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Umesh Bhatt</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
+
+
+<h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Umesh Bhatt👨‍💻</h1>
+<h3 align="center">
+    A Passionate Full Stack Developer From Beautiful Country Nepal. 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1920px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="30" height="20" style="vertical-align: middle;"/>
+</h3>
+
+
+<div align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF5733&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Listening+90s+Songs;I+Love+Watching+Cricket;And+I+Am+An+MSD+Fan;I+Love+Coding;I+Have+Passion+For+Web+Developing;" alt="Headline"/> 
+</div>
+
+
+
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
