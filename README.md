@@ -75,8 +75,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshbhatt2057&show_icons=true&locale=en&layout=compact" alt="umeshbhatt2057" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshbhatt2057&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="umeshbhatt2057" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshbhatt2057&show_icons=true&locale=en" alt="umeshbhatt2057" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshbhatt2057&show_icons=true&theme=react-dark&locale=en" alt="umeshbhatt2057" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshbhatt2057&" alt="umeshbhatt2057" /></p>
+<p> <p align="center">
+    <a href="https://github.com/umeshbhatt2057/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=umeshbhatt2057&theme=react-dark" alt="umeshbhatt2057" />
+    </a>
+</p>
+</p>
