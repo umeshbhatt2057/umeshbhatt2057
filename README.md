@@ -21,7 +21,7 @@
 - 🌱 I’m currently working On Project **Open Academy**
 - 🔥🔥 I’m currently learning **React **
 
-- 💬 Ask me about **Anything Tech**
+- 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 Reach me at **[Facebook](https://www.facebook.com/umesh.bhatt.731572/)**
 
