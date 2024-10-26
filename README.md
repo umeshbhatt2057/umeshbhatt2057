@@ -1,6 +1,6 @@
 
 
-<h1 align="center">नमस्ते (Namaste) 🙏🏻, I am Umesh Bhatt👨‍💻</h1>
+<h1 align="center">नमस्ते (Namaste) 🙏🏻, <br> I am Umesh Bhatt👨‍💻</h1>
 <h2 align="center">
     A Passionate Full Stack Developer From Beautiful Country Nepal. 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1920px-Flag_of_Nepal.svg.png" alt="Nepal Flag" width="30" height="20" style="vertical-align: middle;"/>
