@@ -19,7 +19,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshbhatt2057&label=Profile%20views&color=0e75b6&style=flat" alt="umeshbhatt2057" /> </p>
 
 - 🌱 I’m currently working On Project **Open Academy**
-- 🔥🔥 I’m currently learning **MERN **
+- 🔥🔥 I’m currently learning MERN 
 
 - 💬 Ask me about **HTML,CSS,JS**
 
